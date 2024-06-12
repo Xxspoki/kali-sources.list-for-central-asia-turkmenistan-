@@ -1,0 +1,10 @@
+# See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/
+deb http://kali.cs.nycu.edu.tw/kali kali-rolling main contrib non-free non-free-firmware
+
+# Additional line for source packages
+# deb-src http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware
+deb-src http://ftp.tku.edu.tw/kali kali-rolling main contrib non-free non-free-firmware
+deb-src http://mirror.primelink.net.id/kali kali-rolling main contrib non-free non-free-firmware
+deb-src http://kali.cs.nycu.edu.tw/kali kali-rolling main contrib non-free non-free-firmware
+deb-src http://mirror.vinehost.net/kali kali-rolling main contrib non-free non-free-firmware
+deb-src http://mirrors.ustc.edu.cn/kali kali-rolling main contrib non-free non-free-firmware
